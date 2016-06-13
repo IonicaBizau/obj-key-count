@@ -1,0 +1,50 @@
+{
+  "name": "obj-keys-count",
+  "description": "A fast way to check if the object has a specific number of properties.",
+  "keywords": [
+    "obj",
+    "keys",
+    "count",
+    "a",
+    "fast",
+    "way",
+    "to",
+    "check",
+    "if",
+    "the",
+    "object",
+    "has",
+    "specific",
+    "number",
+    "of",
+    "properties"
+  ],
+  "license": "MIT",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "files": [
+    "bin/",
+    "app/",
+    "lib/",
+    "dist/",
+    "src/",
+    "resources/",
+    "menu/",
+    "scripts/",
+    "build/",
+    "cli.js",
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/IonicaBizau/obj-keys-count.git"
+  },
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/obj-keys-count/issues"
+  },
+  "homepage": "https://github.com/IonicaBizau/obj-keys-count#readme"
+}
