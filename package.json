@@ -49,5 +49,8 @@
   "homepage": "https://github.com/IonicaBizau/obj-key-count#readme",
   "dependencies": {
     "is-empty-obj": "^1.0.4"
+  },
+  "blah": {
+    "description": "This is not using the `Object.keys(obj).length` method but iterates a part of object until it reaches the specified count. :rocket:"
   }
 }

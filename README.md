@@ -5,6 +5,8 @@
 
 > A fast way to check if the object has a specific number of properties.
 
+This is not using the `Object.keys(obj).length` method but iterates a part of object until it reaches the specified count. :rocket:
+
 ## :cloud: Installation
 
 ```sh
